@@ -1,12 +1,16 @@
 {
   "name": "full-stack-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example of a full stack React app",
+  "repository": "none",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
